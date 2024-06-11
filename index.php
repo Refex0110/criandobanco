@@ -27,6 +27,6 @@
     <form action="ansdjnasdas" method="get">
         <input type="button" value="penis">
     </form>
-// git remote ou git push
+// git remote e git push
 </body>
 </html>
