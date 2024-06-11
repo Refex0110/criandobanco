@@ -22,8 +22,11 @@
             <input type="text" name="nomebanco" id="nomebanco"
             placeholder="Digite o nome do banco">
             <input type="submit" value="Deletar Banco">
-
         </fieldset>
     </form>
+    <form action="ansdjnasdas" method="get">
+        <input type="button" value="penis">
+    </form>
+
 </body>
 </html>
