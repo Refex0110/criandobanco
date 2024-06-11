@@ -28,5 +28,6 @@
         <input type="button" value="penis">
     </form>
 // git remote e git push
+// comando git pull
 </body>
 </html>
