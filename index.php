@@ -29,5 +29,6 @@
     </form>
 // git remote e git push
 // comando git pull
+// comando git fetch
 </body>
 </html>
